@@ -1,0 +1,31 @@
+h1{
+    /* font-family: 'Homemade Apple', cursive; */
+    font-family: 'Fredericka the Great', cursive;
+}
+
+video{
+  margin-top: 5%;
+}
+
+#img-photo{
+  width: 100px;
+}
+
+#input-file-div{
+  margin-bottom: 5%;
+}
+
+#upload-instruction{
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.pmt{
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 500%;
+
+}
+
+#login-google-btn{
+  color:white;
+}
