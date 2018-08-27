@@ -37,3 +37,5 @@ firebase.auth().onAuthStateChanged(user => {
          </div>`;
    
   };
+
+  // this is a comment
